@@ -7,6 +7,14 @@ Digital data have a broad spectrum with a significant low frequency content. Bas
 
 A basic problem that often arises in the study of communication systems is that of detecting a pulse transmitted over a channel that is corrupted by channel noise.  
 
+### Matched Filter
+
+The requirement is to specify the impulse reponse h(t) of the filter such that the output signal-to-noise ratio is maximized in equation:
+
+
+$\eta = \frac{\left | g_{0}\left ( T \right ) \right |^{2}}{E\left [ n^{2}\left ( t \right ) \right ]}$
+
+
 ## QAM
 
 In any event, “in-phase” and “quadrature” refer to two sinusoids that have the same frequency and are 90° out of phase. By convention, the I signal is a cosine waveform, and the Q signal is a sine waveform. As you know, a sine wave (without any additional phase) is shifted by 90° relative to a cosine wave. Another way to express this is that the sine and cosine waves are in quadrature.
@@ -20,5 +28,5 @@ The first thing to understand about I/Q signals is that they are always amplitud
 
 ## Sources
 
-"Communication systems" - Simon Haykin
+<b>Communication systems</b> - Simon Haykin
 

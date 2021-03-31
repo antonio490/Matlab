@@ -11,8 +11,9 @@ A basic problem that often arises in the study of communication systems is that 
 
 The requirement is to specify the impulse reponse h(t) of the filter such that the output signal-to-noise ratio is maximized in equation:
 
-
-$\eta = \frac{\left | g_{0}\left ( T \right ) \right |^{2}}{E\left [ n^{2}\left ( t \right ) \right ]}$
+```math
+\eta = \frac{\left | g_{0}\left ( T \right ) \right |^{2}}{E\left [ n^{2}\left ( t \right ) \right ]}$
+```
 
 
 ## QAM

@@ -15,6 +15,15 @@ The requirement is to specify the impulse reponse h(t) of the filter such that t
 \eta = \frac{\left | g_{0}\left ( T \right ) \right |^{2}}{E\left [ n^{2}\left ( t \right ) \right ]}$
 ```
 
+The impulse response of the optimum filter, except for scaling factor k, is a time-reversed and delayed version of the input signal g(t); It is matched to the input signal. A linear time-invarient filter defined in this way is called a matched filter.
+
+### Intersymbol Interference (ISI)
+
+The next source of bit error in a baseband-pulse transmission system is the intersymbol interference, which arises when the communication channel is * dispersive *.
+
+How do we transmit data in M-ary form? The answer lies in the use of discrete pulse modulation, in which the amplitud, duration, or position of the transmitted pulses is varied in a discrete manner in accordance with the given data stream.
+Discrete pulse amplitude modulation (PAM) is one of the most efficient schemes in terms of power and bandwidth utilization. The pulse amplitude modulator modifies this binary sequence into a new sequence of short pulses, whose amplitude $a_{k}$ is represented in the polar form.
+
 
 ## QAM
 

@@ -1,5 +1,8 @@
 # Matlab
 
+## Power spectral density
+
+The power spectrum S_{xx}(f) {\displaystyle S_{xx}(f)} S_{{xx}}(f) of a time series x(t) {\displaystyle x(t)} x(t) describes the distribution of power into frequency components composing that signal. According to Fourier analysis, any physical signal can be decomposed into a number of discrete frequencies, or a spectrum of frequencies over a continuous range. The statistical average of a certain signal or sort of signal (including noise) as analyzed in terms of its frequency content, is called its spectrum. 
 
 ## Baseband pulse transmission
 
